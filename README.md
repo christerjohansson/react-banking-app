@@ -3,6 +3,9 @@
 Personal banking application that uses PLAID api to collect information from your bank on your behalf.
 Plaid has wonderful documentation for developers on how to integrate with their service.
 
+![Final App](./img/screenshot.png)
+Full-stack banking web app built with [Plaid's API](https://plaid.com) and the MERN stack.
+
 This project uses the following technologies:
 
 - [React](https://reactjs.org) and [React Router](https://reacttraining.com/react-router/) for the frontend
